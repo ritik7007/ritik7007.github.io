@@ -1,4 +1,6 @@
 ## Welcome to GitHub Pages
+Hello Everyone!
+Welcome to my page in which you will able to get various code which will help you to solve many problems.
 
 You can use the [editor on GitHub](https://github.com/ritik7007/ritik7007.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
